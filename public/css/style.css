@@ -1,0 +1,116 @@
+/* Start General Appearance */
+* {
+    font-family: arial;
+}
+
+body {
+    background-color: #f2f2f2;
+    padding: 100px 0 200px 0;
+}
+
+h1,
+h1+p {
+    text-align: center;
+}
+
+h1,
+h3 {
+    color: #0d0d0d;
+}
+
+.container {
+    width: 70%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.box-300 {
+    height: 300px;
+    width: 300px;
+}
+
+.box-400-600 {
+    height: 400px;
+    width: 600px;
+}
+
+.box-700 {
+    height: 700px;
+    width: 700px;
+    color: rgba(245, 245, 220, 0);
+    font-size: 30px;
+    padding: 31px;
+    overflow-y: scroll;
+}
+
+/* End General Appearance */
+
+
+/* Start Exercise 01 background-color */
+.bg-color-1 {}
+
+.bg-color-2 {}
+
+/* End Exercise 01 background-color */
+
+/* Start Exercise 02 background */
+.bg-1 {}
+
+.bg-2 {}
+
+.bg-3 {}
+
+.bg-4 {}
+
+/* End Exercise 02 background */
+
+/* Start Exercise 03 background-position */
+.img-1 {}
+
+.img-2 {}
+
+.img-3 {}
+
+.img-4 {}
+
+/* End Exercise 03 background-position */
+
+
+/* Start Exercise 04 background-repeat */
+.img-5 {}
+
+.img-6 {}
+
+.img-7 {}
+
+/* End Exercise 04 background-repeat */
+
+
+/* Start Exercise 05 background-size */
+.img-8 {}
+
+.img-9 {}
+
+.img-10 {}
+
+.img-11 {}
+
+/* End Exercise 05 background-size */
+
+
+/* Start Exercise 06 background-attachment */
+.img-12 {}
+
+.img-13 {}
+
+/* End Exercise 06 background-attachment */
